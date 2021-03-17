@@ -1,2 +1,3 @@
-# styletx
-termux
+Tools untuk mengubah tampilan Termux
+
+Youtube Bayu Pranatv
